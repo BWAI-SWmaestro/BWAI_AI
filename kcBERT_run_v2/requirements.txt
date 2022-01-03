@@ -1,0 +1,5 @@
+torch==1.6.0
+transformers==3.1.0
+pytorch_lightning==0.9.0
+soynlp==0.0.493
+emoji==0.6.0
